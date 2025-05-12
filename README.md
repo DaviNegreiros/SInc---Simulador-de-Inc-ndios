@@ -1,1 +1,1 @@
-# SInc---Simulador-de-Inc-ndios
+# SInc---Simulador-de-Incêndios
